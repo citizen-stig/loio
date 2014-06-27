@@ -1,9 +1,14 @@
 loio
 ====
 
-loio - LOseless Image Optimizer for a web sites
+loio - LOseless Image Optimizer for a web site images
 
-usage
+Requiremets
+====
+* PIL
+* requests
+
+Usage
 ====
 
 ./loio.py [target_folder_with_images]
