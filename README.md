@@ -1,7 +1,7 @@
 loio
 ====
 
-loio - LOseless Image Optimizer for a web site images
+loio - LOssless Image Optimizer for a web site images
 
 Requiremets
 ====
